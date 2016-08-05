@@ -1,7 +1,7 @@
 {
   "name": "node-hatch",
   "description": "Prepare easily your deployments on FTP using GIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "GESTAWORLD",
   "keywords": [
     "FTP", "deployment", "deploy", "git-diff"
