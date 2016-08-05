@@ -1,5 +1,5 @@
 {
-  "name": "hatch",
+  "name": "node-hatch",
   "description": "Prepare easily your deployments on FTP using GIT",
   "version": "0.0.1",
   "author": "GESTAWORLD",
