@@ -10,9 +10,9 @@ $ npm install node-hatch
 
 ## Usage
 
-1. Créer un fichier qui va représenter le projet à déployer. Ex: example.js
-2. Configurer le fichier
-3. Utiliser la commande ci-dessous :
+1. Create a new file who will represent the project to deploy. Ex: example.js
+2. Configure this file
+3. Use the CLI below :
 
 ```bash
 $ node example {stage} {current-commit} {wanted-commit}
