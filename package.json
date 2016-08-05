@@ -1,0 +1,29 @@
+{
+  "name": "hatch",
+  "description": "Prepare easily your deployments on FTP using GIT",
+  "version": "0.0.1",
+  "author": "GESTAWORLD",
+  "keywords": [
+    "FTP", "deployment", "deploy", "git-diff"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GESTAWORLD/hatch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GESTAWORLD/hatch/issues"
+  },
+  "homepage": "https://github.com/GESTAWORLD/hatch",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "ncp": "^2.0.0"
+  },
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "license": "MIT"
+}
