@@ -1,6 +1,6 @@
 # Hatch
 
-Prepare easily your deployments on FTP using GIT
+Prepare easily your deployments on FTP using GIT.
 
 ## Installation
 
