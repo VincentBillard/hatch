@@ -5,7 +5,7 @@ Prepare easily your deployments on FTP using GIT.
 ## Installation
 
 ```bash
-$ npm install hatch
+$ npm install node-hatch
 ```
 
 ## Usage
