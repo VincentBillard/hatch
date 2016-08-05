@@ -1,4 +1,4 @@
-var Hatch = require('hatch');
+var Hatch = require('node-hatch');
 
 new Hatch({
     name: 'example',
